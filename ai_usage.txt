@@ -14,3 +14,19 @@ Read Part 2 notebook, extract the feature importance graph and add it instead of
 ---
 Read Part 3 notebook, extract the loss, AUC, lr, gradient flow, first vs last epoch graphs and add them instead of this line in README.md:
 `-- main graphs of part 3`
+---
+I am unable to push my changes to github due to this error:
+Enumerating objects: 36, done.
+Counting objects: 100% (36/36), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (35/35), done.
+Writing objects: 100% (36/36), 114.82 MiB | 2.04 MiB/s, done.
+Total 36 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: warning: File trainingdata/train_x_bronze.csv.gz is 58.83 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: 20440aeeb760a352c872d962e39803f744f54efae3ecea429ce4b7926c85777f
+remote: error: See https://gh.io/lfs for more information.
+remote: error: File trainingdata/application_train.csv is 158.44 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/DBondKSE/DeepLearningHW1.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/DBondKSE/DeepLearningHW1.git'
