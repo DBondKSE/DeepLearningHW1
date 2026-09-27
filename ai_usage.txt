@@ -1,0 +1,16 @@
+Claude chat used for Part 1:
+https://claude.ai/share/79cf07b1-3317-4bb6-a973-e130c73f4ed4
+Claude chat used for Validation:
+https://claude.ai/share/944af853-e71c-4859-9b51-699238fc6ce4
+Claude chat used for Deep Learning:
+https://claude.ai/share/1e404ac2-730b-4335-9855-d550a021d129
+Claude Code prompts, without link:
+---
+Read Part 1 notebook, extract the missing values graph and add it instead of this line in README.md:
+`-- put here missing values graph from part 1`
+---
+Read Part 2 notebook, extract the feature importance graph and add it instead of this line in README.md:
+`-- add feature importance here`
+---
+Read Part 3 notebook, extract the loss, AUC, lr, gradient flow, first vs last epoch graphs and add them instead of this line in README.md:
+`-- main graphs of part 3`

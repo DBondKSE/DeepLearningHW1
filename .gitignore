@@ -1,0 +1,4 @@
+.DS_Store
+# Raw Kaggle data (too large for GitHub)
+trainingdata/application_train.csv
+trainingdata/application_test.csv
